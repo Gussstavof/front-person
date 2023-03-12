@@ -1,0 +1,15 @@
+nav{
+  background-color: #004746 !important;
+}
+
+div{
+  color: #FFC745 !important;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+  color: #997729 !important
+}
+
+.nav-link {
+  color: #FFC745 !important
+}
